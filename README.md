@@ -1,5 +1,7 @@
 # Setup for TDD with python
 
+[![CircleCI](https://circleci.com/gh/jrollin/python-bootstrap.svg?style=svg)](https://circleci.com/gh/jrollin/python-bootstrap)
+
 ## Dependencies 
 
 * python unittest module
